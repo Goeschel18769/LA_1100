@@ -1,8 +1,7 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-✍️ Ihr Gruppenname und Ihre Nachnamen
+Haldimann Joel
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -27,7 +26,7 @@ Ich programmiere ein Zahlenratespiel.
 | 3.c  | Funktional| muss |Als Spieler möchte ich wissen ob ich die Zahl erraten habe, damit ich weiss ob das Spiel vorbei ist. |
 | 4    | Qualität | kann |Als Spieler möchte ich wissen wie viele Versuche ich hatte, damit ich weiss wie gut ich war.|
 | 5    | Funktionl | muss |Als Computer möchte ich mit Fehleingaben ungehen können, damit das Spiel weitergehen kann.
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+
 
 ### 1.3 Testfälle
 
@@ -47,16 +46,15 @@ Ich programmiere ein Zahlenratespiel.
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.   | 2.08.22 | Joel | | |
-| 2.   | 2.08.22 | Joel  | | |
-| 3.a  | 2.08.22 | Joel | | |
-| 3.b  | 2.08.22 | Joel | | |
-| 3.c  | 2.08.22 | Joel | | |
-| 4.   | 2.08.22 | Joel | | |
-| 5.   | 2.08.22 | Joel | | |
-Total: 
+| 1.   | 2.09.22 | Joel | Zahlen generieren können | 2 Lektionen|
+| 2.   | 9.09.22 | Joel | Zahlen raten können| 5 Lektionen|
+| 3.a  | 9.09.22 | Joel | Wissen ob Zahl zu klein ist | 2 Lektionen |
+| 3.b  | 16.09.22 | Joel | Wissen ob Zahl zu gross ist| 2 Lektionen |
+| 3.c  | 16.09.22 | Joel | Wissen ob Zahl richtig ist | 1 Lektion |
+| 4.   | 16.09.22 | Joel | Wissen wie viele Versuche man hatte | 3 Lektionen |
+| 5.   | 23.09.22 | Joel | Mit Fehlanzeigen umgehen können | 5 Lektionen |
+Total: 20 Lektionen
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
 ✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
