@@ -14,15 +14,19 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Ich programmiere ein Zahlenratespiel.
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
-
+| 1    | Funktional | muss | Als ein Computer möchte ich eine zufällige Zahl zwischen 1 und 100 generieren, damit der Speieler diese erraten kann |
+| 2    | Funktional | muss | Als ein Spieler möchte ich eine Zahl raten können, damit ich die gesuchte zahl finden kann. |
+| 3.a  | Qualität | kann |Als Speieler möchte ich wissen ob meine Zahl kleiner als die gesuchte Zahl ist, um sie einfacher zu finden. |
+| 3.b  | Qualität | kann |Als Speieler möchte ich wissen ob meine Zahl grösser als die gesuchte Zahl ist, um sie einfacher zu finden. |
+| 3.c  | Funktional| muss |Als Spieler möchte ich wissen ob ich die Zahl erraten habe, damit ich weiss ob das Spiel vorbei ist. |
+| 4    | Qualität | kann |Als Spieler möchte ich wissen wie viele Versuche ich hatte, damit ich weiss wie gut ich war.|
+| 5    | Funktionl | muss |Als Computer möchte ich mit Fehleingaben ungehen können, damit das Spiel weitergehen kann.
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
@@ -37,14 +41,19 @@
 ### 1.4 Diagramme
 
 ✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
+<img width="437" alt="Pap" src="https://user-images.githubusercontent.com/111045600/186599808-eaae3af1-f4f7-4ebe-a90a-7b48aac18cbf.png">
 
 ## 2 Planen
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
-
+| 1.   | 2.08.22 | Joel | | |
+| 2.   | 2.08.22 | Joel  | | |
+| 3.a  | 2.08.22 | Joel | | |
+| 3.b  | 2.08.22 | Joel | | |
+| 3.c  | 2.08.22 | Joel | | |
+| 4.   | 2.08.22 | Joel | | |
+| 5.   | 2.08.22 | Joel | | |
 Total: 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
