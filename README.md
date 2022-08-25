@@ -39,7 +39,6 @@ Ich programmiere ein Zahlenratespiel.
 
 ### 1.4 Diagramme
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
 <img width="437" alt="Pap" src="https://user-images.githubusercontent.com/111045600/186599808-eaae3af1-f4f7-4ebe-a90a-7b48aac18cbf.png">
 
 ## 2 Planen
