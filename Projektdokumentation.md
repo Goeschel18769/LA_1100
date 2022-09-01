@@ -70,10 +70,11 @@ Ich habe mich dazu entschieden den Hintergrund blau zu machen, weil blau eine sc
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
-
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+| 1  | 1.09.2022 | Joel Haldimann | 45min.| 15min. |
+| 2 |1.09.2022| Joel Haldimann | 135min. | 105min.|
+| 3a |1.09.2022 | Joel Haldimann | 45min. | 20min. |
+| 3b |1.09.2022 | Joel Haldimann| 45min. | 5min. |
+| 3c |1.09.2022 | Joel Haldimann| 45min. | 5min. |
 
 ## 5 Kontrollieren
 
