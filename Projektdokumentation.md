@@ -6,8 +6,8 @@ Haldimann Joel
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |       | 0.0.1   | Die App kann jetzt Zahlen generieren und man kann Zahlen raten. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+|       |      |                                                              |
+|       |    |                                                              |
 
 ## 1 Informieren
 
@@ -75,7 +75,8 @@ Ich habe mich dazu entschieden den Hintergrund blau zu machen, weil blau eine sc
 | 3a |1.09.2022 | Joel Haldimann | 45min. | 20min. |
 | 3b |1.09.2022 | Joel Haldimann| 45min. | 5min. |
 | 3c |1.09.2022 | Joel Haldimann| 45min. | 5min. |
-
+| 4  |8.08.2022 | Joel Haldimann| 90min. | 40min. |
+| 5  |8.08.2022 | Joel Haldimann | 135min. | 140min. |
 ## 5 Kontrollieren
 
 ### 5.1 Testprotokoll
@@ -98,4 +99,4 @@ Ich habe mich dazu entschieden den Hintergrund blau zu machen, weil blau eine sc
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+
