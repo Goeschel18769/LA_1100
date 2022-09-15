@@ -58,7 +58,8 @@ Ich programmiere ein Zahlenratespiel.
 | 3.c  | 16.09.22 | Joel | Wissen ob Zahl richtig ist | 1 Lektion |
 | 4.   | 16.09.22 | Joel | Wissen wie viele Versuche man hatte | 2 Lektionen |
 | 5.   | 23.09.22 | Joel | Mit Fehlanzeigen umgehen können | 3 Lektionen |
-| 6.   | 30.09.22 | Joel | Hintergrund blau machen| 1 Lektion
+| 6.   | 30.09.22 | Joel | Textfarben bei Antworten anpassen| 2 Lektionen |
+| 7.   | 30.09.22 | Joel | Andere Antworten als normal bei viel zu hohen oder tiefen Antworten| 3 Lektionen |
 
 Total: 13 Lektionen
 
