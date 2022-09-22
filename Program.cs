@@ -101,7 +101,7 @@ namespace Zahlenratespiel
                     {
                         Console.ForegroundColor = ConsoleColor.Magenta;
                         Console.WriteLine("Ungültige Eingabe");
-                        Console.WriteLine("Geben sie eine Zahl ein");
+                        Console.WriteLine("Geben sie nur Zahlen ein");
                     }
 
 
