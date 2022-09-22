@@ -29,13 +29,13 @@ Ich programmiere ein Zahlenratespiel.
 | 5    | Funktional| muss | Als Spieler möchte ich wissen ob ich die Zahl erraten habe, damit ich weiss ob das Spiel vorbei ist. |
 | 6    | Qualität | kann | Als Spieler möchte ich wissen wie viele Versuche ich hatte, damit ich weiss wie gut ich war.|
 | 7    | Funktionl | muss | Als Computer möchte ich mit Fehleingaben ungehen können, damit das Spiel weitergehen kann. |
-| 8    | Qualität  | kann | Als Spielr möchte ich das Spiel mehrfach spielen können |
+| 8    | Qualität  | kann | Als Spieler möchte ich das Spiel mehrfach spielen können |
 | 9    | Qualität  | kann | Als Spieler möchte ich farbige Texts haben, da es das Spiel schöner macht. |
 ## 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1. |Ich habe den Code für die Zahlengeneation geschreiebn| Console.Write(Z)| Eine zufällig generierte Zahl.|
+| 1. |Ich habe den Code für die Zahlengeneation geschreiebn| Console.Write(GeheimeZahl)| Eine zufällig generierte Zahl.|
 | 2. | Ich habe den Code für das Erraten der Zahlen| Eine Zahl in das Feld eingeben. | Man kann die Zahl in das Feld schreiben. |
 | 3.| Ich habe den Code für das Erkennen ob die geratene Zahl kleiner als die gesuchte Zahl ist. | Ich gebe eine Zahl unter 0 ein| Das Programm sagt mir das meine  Zahl zu tief war. |
 | 4. | Ich habe den Code für das Erkennen ob die geratene Zahl grösser als die gesuchte Zahl ist. | Ich gebe eine Zahl die grösser als 100 ist ein| Das Programm sagt mir, dass meine Zahl zu gross ist. |
@@ -66,7 +66,7 @@ Ich programmiere ein Zahlenratespiel.
 | 9.   | 22.09.22 | Joel | Textfarben bei Antworten anpassen| 2 Lektionen |
 
 
-Total: 13 Lektionen
+Total: 15 Lektionen
 
 ## 3 Entscheiden
 
@@ -100,7 +100,7 @@ Ich habe mich dazu entschieden die Textfarben zu ändern, da so das Spiel viel s
 | 6.1  | 22.09.2022 | Funktioniert | Joel Haldimann |
 | 7.1  | 22.09.2022 | Funktioniert | Joel Haldimann |
 | 8.1  | 22.09.2022 | Funktioniert | Joel Haldimann |
-| 9.1  | 22.09.2022 | Funktioniert | Joel Haldimann
+| 9.1  | 22.09.2022 | Funktioniert | Joel Haldimann |
 
 Fazit: Ich konnte alles so umsetzen wie ich es wollte und es funktioniert alles.
 
