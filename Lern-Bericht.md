@@ -13,7 +13,23 @@ Ich habe gelernt wie und wo man try/catch einsetzt.
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
-Mit Try/Catch kann man das Abstürzen eines Programmes verhindern, z.B.
+Mit Try/Catch kann man das Abstürzen eines Programmes verhindern,
+z.B. wenn man statt einer Zahl Buchstaben eingibt würde das Programm normalerweise abstürtzen,
+aber mit Try/Catch kann dies verhindert werden.
+
+```csharp
+int Zahl;
+            try
+            {
+                Console.WriteLine("Geben Sie eine Zahl ein");
+                Zahl = Convert.ToInt32(Console.ReadLine());
+            }
+            catch
+            {
+                Console.WriteLine("Ungültige Eingabe");
+            }
+  ```
+  
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 * Ein gut dokumentierter Code-Fetzen
 * Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
