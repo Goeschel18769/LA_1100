@@ -5,9 +5,11 @@ Haldimann Joel
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 08.09.2022| 0.0.1   | Die App kann jetzt Zahlen generieren und man kann Zahlen raten. |
-| 15.09.2022|0.1.1| Die App antwortet jetzt auf unterschiedliche Inputs mit unterschiedlichen Faben.|
-|       |    |                                                              |
+| 08.09.2022| 0.0.1| Die App kann jetzt Zahlen generieren und man kann Zahlen raten. |
+| 08.09.2022| 0.0.2 | Die App sagt nun ob die eingegebene Zahl grösser oder kleiner als die gesuchte Zahl ist. |
+| 15.09.2022|0.1.3| Die App kann jetzt mit fehlereingaben umgehen. |
+| 15.09.2022|0.1.4| Die App antwortet jetzt auf unterschiedliche Inputs mit unterschiedlichen Faben.|
+                                                             
 
 ## 1 Informieren
 
@@ -36,7 +38,7 @@ Ich programmiere ein Zahlenratespiel.
 | 2. | Ich habe den Code für das Erraten der Zahlen| Eine Zahl in das Feld eingeben. | Man kann die Zahl in das Feld schreiben. |
 | 3.a| Ich habe den Code für das Erkennen ob die geratene Zahl kleiner als die gesuchte Zahl ist. | Ich gebe eine Zahl unter 0 ein| Das Programm sagt mir das meine  Zahl zu tief war. |
 | 3.b| Ich habe den Code für das Erkennen ob die geratene Zahl grösser als die gesuchte Zahl ist. | Ich gebe eine Zahl die grösser als 100 ist ein| Das Programm sagt mir, dass meine Zahl zu gross ist. |
-| 3.c|Ich habe den Code um herauszufinden ob meine Zahl die gesuchte Zahl ist.| Ich gebe eine Zahl ein. | Die Antowrt wird als Richtig angezeigt oder die Zahl wird gelöscht. |
+| 3.c|Ich habe den Code um herauszufinden ob meine Zahl die gesuchte Zahl ist.| Ich gebe eine Zahl ein. | Die Antowrt wird als Richtig angezeigt oder die Zahl wird als falsch angezeigt. |
 | 4. | Ich habe den Code um zu wissen wie viel Versuch ich hatte. | Ich gebe eine Antwort. | Der Coutner erhöt sich um 1.|
 | 5. | Ich habe den Code damit der Computer mit fehleingaben umgehen kann| Ich gebe ein Wort ein. | Die Eingabe wird gelöscht und nicht als Versuch gespeichert. |
 | 6. | Ich habe den Code für die unterschiedlichen Textfarben | Ich spiele das Spiel | Die Schriftfarbe ändert sich bein unterschiedlichen Antworten. |
@@ -54,11 +56,11 @@ Ich programmiere ein Zahlenratespiel.
 | 1.   | 2.09.22 | Joel | Zahlen generieren können | 1 Lektionen|
 | 2.   | 9.09.22 | Joel | Zahlen raten können| 3 Lektionen|
 | 3.a  | 9.09.22 | Joel | Wissen ob Zahl zu klein ist | 1 Lektionen |
-| 3.b  | 16.09.22 | Joel | Wissen ob Zahl zu gross ist| 1 Lektionen |
-| 3.c  | 16.09.22 | Joel | Wissen ob Zahl richtig ist | 1 Lektion |
-| 4.   | 16.09.22 | Joel | Wissen wie viele Versuche man hatte | 2 Lektionen |
-| 5.   | 23.09.22 | Joel | Mit Fehlanzeigen umgehen können | 3 Lektionen |
-| 6.   | 30.09.22 | Joel | Textfarben bei Antworten anpassen| 2 Lektionen |
+| 3.b  | 15.09.22 | Joel | Wissen ob Zahl zu gross ist| 1 Lektionen |
+| 3.c  | 15.09.22 | Joel | Wissen ob Zahl richtig ist | 1 Lektion |
+| 4.   | 15.09.22 | Joel | Wissen wie viele Versuche man hatte | 2 Lektionen |
+| 5.   | 22.09.22 | Joel | Mit Fehlanzeigen umgehen können | 3 Lektionen |
+| 6.   | 22.09.22 | Joel | Textfarben bei Antworten anpassen| 2 Lektionen |
 
 
 Total: 13 Lektionen
