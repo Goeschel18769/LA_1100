@@ -107,4 +107,4 @@ Fazit: Ich konnte alles so umsetzen wie ich es wollte und es funktioniert alles.
 
 ## 6 Auswerten
 
-
+Lern-Bericht ist im Repo.
