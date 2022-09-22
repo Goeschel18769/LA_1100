@@ -23,25 +23,26 @@ Ich programmiere ein Zahlenratespiel.
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    | Funktional | muss | Als ein Computer möchte ich eine zufällige Zahl zwischen 1 und 100 generieren, damit der Speieler diese erraten kann |
 | 2    | Funktional | muss | Als ein Spieler möchte ich eine Zahl raten können, damit ich die gesuchte zahl finden kann. |
-| 3.a  | Qualität | kann | Als Speieler möchte ich wissen ob meine Zahl kleiner als die gesuchte Zahl ist, um sie einfacher zu finden. |
-| 3.b  | Qualität | kann | Als Speieler möchte ich wissen ob meine Zahl grösser als die gesuchte Zahl ist, um sie einfacher zu finden. |
-| 3.c  | Funktional| muss | Als Spieler möchte ich wissen ob ich die Zahl erraten habe, damit ich weiss ob das Spiel vorbei ist. |
-| 4    | Qualität | kann | Als Spieler möchte ich wissen wie viele Versuche ich hatte, damit ich weiss wie gut ich war.|
-| 5    | Funktionl | muss | Als Computer möchte ich mit Fehleingaben ungehen können, damit das Spiel weitergehen kann. |
-| 6    | Qualität  | kann | Als Spielr möchte ich das Spiel mehrfach spielen können |
-| 7    | Qualität  | kann | Als Spieler möchte ich farbige Texts haben, da es das Spiel schöner macht. |
+| 3    | Qualität | kann | Als Speieler möchte ich wissen ob meine Zahl kleiner als die gesuchte Zahl ist, um sie einfacher zu finden. |
+| 4    | Qualität | kann | Als Speieler möchte ich wissen ob meine Zahl grösser als die gesuchte Zahl ist, um sie einfacher zu finden. |
+| 5    | Funktional| muss | Als Spieler möchte ich wissen ob ich die Zahl erraten habe, damit ich weiss ob das Spiel vorbei ist. |
+| 6    | Qualität | kann | Als Spieler möchte ich wissen wie viele Versuche ich hatte, damit ich weiss wie gut ich war.|
+| 7    | Funktionl | muss | Als Computer möchte ich mit Fehleingaben ungehen können, damit das Spiel weitergehen kann. |
+| 8    | Qualität  | kann | Als Spielr möchte ich das Spiel mehrfach spielen können |
+| 9    | Qualität  | kann | Als Spieler möchte ich farbige Texts haben, da es das Spiel schöner macht. |
 ## 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1. |Ich habe den Code für die Zahlengeneation geschreiebn| Console.Write(Z)| Eine zufällig generierte Zahl.|
 | 2. | Ich habe den Code für das Erraten der Zahlen| Eine Zahl in das Feld eingeben. | Man kann die Zahl in das Feld schreiben. |
-| 3.a| Ich habe den Code für das Erkennen ob die geratene Zahl kleiner als die gesuchte Zahl ist. | Ich gebe eine Zahl unter 0 ein| Das Programm sagt mir das meine  Zahl zu tief war. |
-| 3.b| Ich habe den Code für das Erkennen ob die geratene Zahl grösser als die gesuchte Zahl ist. | Ich gebe eine Zahl die grösser als 100 ist ein| Das Programm sagt mir, dass meine Zahl zu gross ist. |
-| 3.c|Ich habe den Code um herauszufinden ob meine Zahl die gesuchte Zahl ist.| Ich gebe eine Zahl ein. | Die Antowrt wird als Richtig angezeigt oder die Zahl wird als falsch angezeigt. |
-| 4. | Ich habe den Code um zu wissen wie viel Versuch ich hatte. | Ich gebe eine Antwort. | Der Coutner erhöt sich um 1.|
-| 5. | Ich habe den Code damit der Computer mit fehleingaben umgehen kann| Ich gebe ein Wort ein. | Die Eingabe wird gelöscht und nicht als Versuch gespeichert. |
-| 6. | Ich habe den Code für die unterschiedlichen Textfarben | Ich spiele das Spiel | Die Schriftfarbe ändert sich bein unterschiedlichen Antworten. |
+| 3.| Ich habe den Code für das Erkennen ob die geratene Zahl kleiner als die gesuchte Zahl ist. | Ich gebe eine Zahl unter 0 ein| Das Programm sagt mir das meine  Zahl zu tief war. |
+| 4. | Ich habe den Code für das Erkennen ob die geratene Zahl grösser als die gesuchte Zahl ist. | Ich gebe eine Zahl die grösser als 100 ist ein| Das Programm sagt mir, dass meine Zahl zu gross ist. |
+| 5. |Ich habe den Code um herauszufinden ob meine Zahl die gesuchte Zahl ist.| Ich gebe eine Zahl ein. | Die Antowrt wird als Richtig angezeigt oder die Zahl wird als falsch angezeigt. |
+| 6. | Ich habe den Code um zu wissen wie viel Versuch ich hatte. | Ich gebe eine Antwort. | Der Coutner erhöt sich um 1.|
+| 7. | Ich habe den Code damit der Computer mit fehleingaben umgehen kann| Ich gebe ein Wort ein. | Die Eingabe wird gelöscht und nicht als Versuch gespeichert. |
+| 8. | Ich habe den Code geschrieben, dass man das Spiel mehrfach am Stück spielen kann. | Am Ende die Frage ob man nochmal spielen will mit True beantworten. | Das spiel startet wieder von vorne.
+| 9.| Ich habe den Code für die unterschiedlichen Textfarben | Ich spiele das Spiel | Die Schriftfarbe ändert sich bein unterschiedlichen Antworten. |
 
 
 
