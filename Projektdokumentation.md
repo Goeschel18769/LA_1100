@@ -8,9 +8,9 @@ Haldimann Joel
 | 08.09.2022| 0.0.1| Die App kann jetzt Zahlen generieren und man kann Zahlen raten. |
 | 08.09.2022| 0.0.2 | Die App sagt nun ob die eingegebene Zahl grösser oder kleiner als die gesuchte Zahl ist. |
 | 15.09.2022|0.1.3| Die App kann jetzt mit fehlereingaben umgehen. |
-| 15.09.2022|0.1.4| Die App antwortet jetzt auf unterschiedliche Inputs mit unterschiedlichen Faben.|
-                                                             
+| 15.09.2022|1.0.0| Die App antwortet jetzt auf unterschiedliche Inputs mit unterschiedlichen Faben.|
 
+                                                            
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
@@ -67,7 +67,7 @@ Total: 13 Lektionen
 
 ## 3 Entscheiden
 
-Ich habe mich dazu entschieden die Textfarben zu änder, da so das Spiel viel schöner aussiet.
+Ich habe mich dazu entschieden die Textfarben zu ändern, da so das Spiel viel schöner aussiet.
 
 ## 4 Realisieren
 
@@ -81,25 +81,24 @@ Ich habe mich dazu entschieden die Textfarben zu änder, da so das Spiel viel sc
 | 4  |8.08.2022 | Joel Haldimann| 90min. | 40min. |
 | 5  |8.08.2022 | Joel Haldimann | 135min. | 140min. |
 | 6  |15.09.2022| Joel Haldimann | 90min.  | 75min. |
+
 ## 5 Kontrollieren
 
 ### 5.1 Testprotokoll
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  | 22.09.2022 | Funktioniert | Joel Haldimann |
+| 2.1  | 22.09.2022 | Funktioniert | Joel Haldimann |
+| 3A.1  | 22.09.2022 | Funktioniert | Joel Haldimann |
+| 3B.1  | 22.09.2022 | Funktioniert | Joel Haldimann |
+| 3C.1  | 22.09.2022 | Funktioniert | Joel Haldimann |
+| 4.1  | 22.09.2022 | Funktioniert | Joel Haldimann |
+| 5.1  | 22.09.2022 | Funktioniert | Joel Haldimann |
+| 6.1  | 22.09.2022 | Funktioniert | Joel Haldimann |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Fazit: Ich konnte alles so umsetzen wie ich es wollte.
 
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
