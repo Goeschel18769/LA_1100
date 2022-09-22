@@ -5,8 +5,8 @@ Haldimann Joel
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | Die App kann jetzt Zahlen generieren und man kann Zahlen raten. |
-|       |      |                                                              |
+| 08.09.2022| 0.0.1   | Die App kann jetzt Zahlen generieren und man kann Zahlen raten. |
+| 15.09.2022|0.1.1| Die App antwortet jetzt auf unterschiedliche Inputs mit unterschiedlichen Faben.|
 |       |    |                                                              |
 
 ## 1 Informieren
@@ -26,9 +26,9 @@ Ich programmiere ein Zahlenratespiel.
 | 3.c  | Funktional| muss | Als Spieler möchte ich wissen ob ich die Zahl erraten habe, damit ich weiss ob das Spiel vorbei ist. |
 | 4    | Qualität | kann | Als Spieler möchte ich wissen wie viele Versuche ich hatte, damit ich weiss wie gut ich war.|
 | 5    | Funktionl | muss | Als Computer möchte ich mit Fehleingaben ungehen können, damit das Spiel weitergehen kann. |
-| 6    | Qualität  | kann | Als Spielr möchte ich einen schönen Hintergrund haben. |
-
-### 1.3 Testfälle
+| 6    | Qualität  | kann | Als Spielr möchte ich das Spiel mehrfach spielen können |
+| 7    | Qualität  | kann | Als Spieler möchte ich farbige Texts haben, da es das Spiel schöner macht. |
+## 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
@@ -39,7 +39,7 @@ Ich programmiere ein Zahlenratespiel.
 | 3.c|Ich habe den Code um herauszufinden ob meine Zahl die gesuchte Zahl ist.| Ich gebe eine Zahl ein. | Die Antowrt wird als Richtig angezeigt oder die Zahl wird gelöscht. |
 | 4. | Ich habe den Code um zu wissen wie viel Versuch ich hatte. | Ich gebe eine Antwort. | Der Coutner erhöt sich um 1.|
 | 5. | Ich habe den Code damit der Computer mit fehleingaben umgehen kann| Ich gebe ein Wort ein. | Die Eingabe wird gelöscht und nicht als Versuch gespeichert. |
-| 6. | Ich habe den Code für einen blauen Hintergrund. | Ich schaue das Spiel an. | Der Hintergrund ist blau. |
+| 6. | Ich habe den Code für die unterschiedlichen Textfarben | Ich spiele das Spiel | Die Schriftfarbe ändert sich bein unterschiedlichen Antworten. |
 
 
 
@@ -59,13 +59,13 @@ Ich programmiere ein Zahlenratespiel.
 | 4.   | 16.09.22 | Joel | Wissen wie viele Versuche man hatte | 2 Lektionen |
 | 5.   | 23.09.22 | Joel | Mit Fehlanzeigen umgehen können | 3 Lektionen |
 | 6.   | 30.09.22 | Joel | Textfarben bei Antworten anpassen| 2 Lektionen |
-| 7.   | 30.09.22 | Joel | Andere Antworten als normal bei viel zu hohen oder tiefen Antworten| 3 Lektionen |
+
 
 Total: 13 Lektionen
 
 ## 3 Entscheiden
 
-Ich habe mich dazu entschieden den Hintergrund blau zu machen, weil blau eine schöne Farbe ist.
+Ich habe mich dazu entschieden die Textfarben zu änder, da so das Spiel viel schöner aussiet.
 
 ## 4 Realisieren
 
@@ -78,6 +78,7 @@ Ich habe mich dazu entschieden den Hintergrund blau zu machen, weil blau eine sc
 | 3c |1.09.2022 | Joel Haldimann| 45min. | 5min. |
 | 4  |8.08.2022 | Joel Haldimann| 90min. | 40min. |
 | 5  |8.08.2022 | Joel Haldimann | 135min. | 140min. |
+| 6  |15.09.2022| Joel Haldimann | 90min.  | 75min. |
 ## 5 Kontrollieren
 
 ### 5.1 Testprotokoll
