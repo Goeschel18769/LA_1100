@@ -8,6 +8,7 @@ Haldimann Joel
 | 08.09.2022| 0.0.1| Die App kann jetzt Zahlen generieren und man kann Zahlen raten. |
 | 08.09.2022| 0.0.2 | Die App sagt nun ob die eingegebene Zahl grösser oder kleiner als die gesuchte Zahl ist. |
 | 15.09.2022|0.1.3| Die App kann jetzt mit fehlereingaben umgehen. |
+| 15.09.2022|0.2.3| Das Spiel kann jetzt mehrfach nacheinander gespielt werden. |
 | 15.09.2022|1.0.0| Die App antwortet jetzt auf unterschiedliche Inputs mit unterschiedlichen Faben.|
 
                                                             
@@ -56,12 +57,13 @@ Ich programmiere ein Zahlenratespiel.
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.   | 2.09.22 | Joel | Zahlen generieren können | 1 Lektionen|
 | 2.   | 9.09.22 | Joel | Zahlen raten können| 3 Lektionen|
-| 3.a  | 9.09.22 | Joel | Wissen ob Zahl zu klein ist | 1 Lektionen |
-| 3.b  | 15.09.22 | Joel | Wissen ob Zahl zu gross ist| 1 Lektionen |
-| 3.c  | 15.09.22 | Joel | Wissen ob Zahl richtig ist | 1 Lektion |
-| 4.   | 15.09.22 | Joel | Wissen wie viele Versuche man hatte | 2 Lektionen |
-| 5.   | 22.09.22 | Joel | Mit Fehlanzeigen umgehen können | 3 Lektionen |
-| 6.   | 22.09.22 | Joel | Textfarben bei Antworten anpassen| 2 Lektionen |
+| 3.   | 9.09.22 | Joel | Wissen ob Zahl zu klein ist | 1 Lektionen |
+| 4.   | 15.09.22 | Joel | Wissen ob Zahl zu gross ist| 1 Lektionen |
+| 5.   | 15.09.22 | Joel | Wissen ob Zahl richtig ist | 1 Lektion |
+| 6.   | 15.09.22 | Joel | Wissen wie viele Versuche man hatte | 2 Lektionen |
+| 7.   | 22.09.22 | Joel | Mit Fehlanzeigen umgehen können | 3 Lektionen |
+| 8.   | 22.09.22 | Joel | Das Spiel mehrfach nacheinander Spielen können. | 1 Lektionen |
+| 9.   | 22.09.22 | Joel | Textfarben bei Antworten anpassen| 2 Lektionen |
 
 
 Total: 13 Lektionen
@@ -75,13 +77,14 @@ Ich habe mich dazu entschieden die Textfarben zu ändern, da so das Spiel viel s
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1  | 1.09.2022 | Joel Haldimann | 45min.| 15min. |
-| 2 |1.09.2022| Joel Haldimann | 135min. | 105min.|
-| 3a |1.09.2022 | Joel Haldimann | 45min. | 20min. |
-| 3b |1.09.2022 | Joel Haldimann| 45min. | 5min. |
-| 3c |1.09.2022 | Joel Haldimann| 45min. | 5min. |
-| 4  |8.08.2022 | Joel Haldimann| 90min. | 40min. |
-| 5  |8.08.2022 | Joel Haldimann | 135min. | 140min. |
-| 6  |15.09.2022| Joel Haldimann | 90min.  | 75min. |
+| 2  |1.09.2022| Joel Haldimann | 135min. | 105min.|
+| 3  |1.09.2022 | Joel Haldimann | 45min. | 20min. |
+| 4  |1.09.2022 | Joel Haldimann| 45min. | 5min. |
+| 5  |1.09.2022 | Joel Haldimann| 45min. | 5min. |
+| 6  |8.08.2022 | Joel Haldimann| 90min. | 40min. |
+| 7  |8.08.2022 | Joel Haldimann | 135min. | 140min. |
+| 8  |15.09.2022| Joel Haldimann | 90min.  | 85min. |
+| 9  |15.09.2022| Joel Haldimann | 90min.  | 75min. |
 
 ## 5 Kontrollieren
 
@@ -91,14 +94,15 @@ Ich habe mich dazu entschieden die Textfarben zu ändern, da so das Spiel viel s
 | ---- | ----- | -------- | ------ |
 | 1.1  | 22.09.2022 | Funktioniert | Joel Haldimann |
 | 2.1  | 22.09.2022 | Funktioniert | Joel Haldimann |
-| 3A.1  | 22.09.2022 | Funktioniert | Joel Haldimann |
-| 3B.1  | 22.09.2022 | Funktioniert | Joel Haldimann |
-| 3C.1  | 22.09.2022 | Funktioniert | Joel Haldimann |
+| 3.1  | 22.09.2022 | Funktioniert | Joel Haldimann |
 | 4.1  | 22.09.2022 | Funktioniert | Joel Haldimann |
 | 5.1  | 22.09.2022 | Funktioniert | Joel Haldimann |
 | 6.1  | 22.09.2022 | Funktioniert | Joel Haldimann |
+| 7.1  | 22.09.2022 | Funktioniert | Joel Haldimann |
+| 8.1  | 22.09.2022 | Funktioniert | Joel Haldimann |
+| 9.1  | 22.09.2022 | Funktioniert | Joel Haldimann
 
-Fazit: Ich konnte alles so umsetzen wie ich es wollte.
+Fazit: Ich konnte alles so umsetzen wie ich es wollte und es funktioniert alles.
 
 
 ## 6 Auswerten
