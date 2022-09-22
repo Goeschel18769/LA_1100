@@ -13,7 +13,7 @@ Ich habe gelernt wie und wo man try/catch einsetzt.
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
-* Eine textliche Beschreibung
+Mit Try/Catch kann man das Abstürzen eines Programmes verhindern, z.B.
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 * Ein gut dokumentierter Code-Fetzen
 * Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
