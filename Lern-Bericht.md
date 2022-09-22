@@ -41,9 +41,13 @@ https://user-images.githubusercontent.com/111045600/191689448-ee9b197e-6f79-4a4b
 Man sieht wie Try/Catch funktioniert, wann es zum einsatz kommt, wie man es einsetzen könnte und welchen Code man dafür braucht.
 
 # Reflektion zum Arbeitsprozess
+#### Was gut lief.
+Das Arbeiten von Zuhause lief sehr gut da ich dort einfacher konzentrieren konnte. Ich war Zuhause viel produktiver, da ich mich weniger ablenken lies.
 
-Das Arbeiten von Zuhause lief sehr gut da ich dort einfacher konzentrieren konnte. Ich war Zuhause viel produktiver, da ich mich weniger ablenken lies
+#### Was schlecht lief
 
+Als ich mit dem Grundgerüst des Codes fertig war, wusste ich nicht mehr genau wo ich weiterarbeiten sollte, da mir der Code eigentlich fertig schien.
 
+**VBV**: 
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+Ich sollte meine Projektplanung das nächste mal genauer schreiben um zu verhindern, dass wenn ich mit einem Arbeitspaket fertig bin ich nicht mehr genau weiss wo ich jetzt weiterarbeiten soll.
